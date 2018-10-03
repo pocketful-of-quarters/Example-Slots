@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 0
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "933570311715-bg7e8v5j9kcj4u0m4j4l4rlir4f76lp2.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ROL5fBIgQhSk8jEcSckbotKJem3hj40"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:933570311715:ios:345f7e63b490ee58", 
+        "android_client_info": {
+          "package_name": "com.poq.slotinvader"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "slot-invader.appspot.com", 
+    "project_id": "slot-invader", 
+    "firebase_url": "https://slot-invader.firebaseio.com", 
+    "project_number": "933570311715"
+  }
+}
